@@ -9,7 +9,7 @@ namespace AphAsyncHandler
 {
     public class Coins
     {
-        static string key = "C27CD7DB-4B5F-476E-A7C2-027FC6182A6C";
+        static string key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
         static string server = "http://rest.coinapi.io/";
         static string period = "1DAY";
         static string lastPrice = "";
